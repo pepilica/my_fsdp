@@ -1,4 +1,4 @@
-# FSDP Implementation
+# My own FSDP Implementation
 
 This is a self-made FSDP FULL_SHARD (Level 3) algorithm implementation that I made as a homework for YSDA Efficient DL course. It can be used as an alternative to PyTorch FSDP, giving the same outputs/gradients and memory/speed footprints. 
 
